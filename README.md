@@ -18,6 +18,7 @@
 8. Конец.
 
 ### Блок-схема
+<img width="407" height="780" alt="изображение" src="https://github.com/user-attachments/assets/16e2d51c-710b-4549-805c-6d746c8e21e0" />
 
 ### Код
 ```c
